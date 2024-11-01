@@ -19,14 +19,14 @@
 		<link href="https://fonts.googleapis.com/css?family=Quicksand:400,700,400italic,700italic" rel="stylesheet" type="text/css" />
 		
 				<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-J0W0BPW6Z4"></script>
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-gaidplaceholder"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
 
-  gtag('config', 'G-J0W0BPW6Z4');
-</script><meta name="google-adsense-account" content="ca-pub-1149096991373354">	
+  gtag('config', 'G-gaidplaceholder');
+</script><meta name="google-adsense-account" content="ca-pub-pubplaceholder">	
 	</head>
 	<body id="page-top">
 		<!-- Navigation-->
